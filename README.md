@@ -1,7 +1,7 @@
 # ak-clean-archi-base-ansible
 
 Exemple Architecture basique et propre pour les projets ansible
-
+```bash
 ansible-project/
 ├── inventory
 ├── playbook.yml
@@ -20,3 +20,4 @@ ansible-project/
         └── vars/
             ├── Debian.yml
             └── RedHat.yml
+```
